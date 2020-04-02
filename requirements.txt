@@ -1,0 +1,13 @@
+torch>=1.2.0
+torchvision>=0.4.0
+pyyaml
+xmltodict
+tqdm
+scikit-video
+scikit-image
+imageio-ffmpeg
+pandas
+parallel-ssh
+opencv-python
+jupyterlab
+psutil
