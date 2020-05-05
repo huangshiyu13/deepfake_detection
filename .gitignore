@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-models/
+./models/
 *.py[cod]
 *$py.class
 train_server_config_debug.json
