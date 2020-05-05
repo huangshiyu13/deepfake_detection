@@ -20,6 +20,8 @@ to know more about deepfake images.
 
 `pip install -r requirements.txt`
 
+- Pytroch
+
 ## Usage
 
 - ### test images using trained model
