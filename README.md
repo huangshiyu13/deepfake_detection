@@ -1,5 +1,7 @@
 # Deepfake Detection
 
+This repo will not be updated. We will public our new version at https://github.com/TARTRL/Deepfake_Dection
+
 ## Description
 
 Use deep models to detect fake images. 
